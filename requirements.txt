@@ -1,0 +1,8 @@
+# 依赖声明
+Python: 3.8+
+numpy==1.26.4
+sympy==1.12
+matplotlib==3.8.4
+numba==0.59.1
+ipywidgets==8.1.2
+scipy==1.11.4
